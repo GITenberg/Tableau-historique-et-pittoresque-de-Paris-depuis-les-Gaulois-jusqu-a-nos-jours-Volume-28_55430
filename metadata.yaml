@@ -1,11 +1,16 @@
 _repo: Tableau-historique-et-pittoresque-de-Paris-depuis-les-Gaulois-jusqu-a-nos-jours-Volume-28_55430
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55430-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Saint-Victor, Jacques-Maximilien Benjamin de
     gutenberg_agent_id: '48331'
     url: http://www.gutenberg.org/2009/agents/48331
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55430#Tableau-historique-et-pittoresque-de-Paris-depuis-les-Gaulois-jusqu-a-nos-jours-Volume-28
 gutenberg_bookshelf: FR Villes
 gutenberg_issued: '2017-08-26'
 gutenberg_type: Text
